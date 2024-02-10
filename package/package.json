@@ -1,0 +1,24 @@
+{
+  "name": "number-random-gen-inclusive",
+  "version": "1.0.0",
+  "description": "Generates random number from 0 to given number(inclusive)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgswathi/npm-package-contribution.git"
+  },
+  "keywords": [
+    "generate",
+    "random",
+    "number"
+  ],
+  "author": "swathi pg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgswathi/npm-package-contribution/issues"
+  },
+  "homepage": "https://github.com/pgswathi/npm-package-contribution#readme"
+}
